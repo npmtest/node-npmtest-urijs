@@ -1,4 +1,7 @@
-# test coverage for  [urijs (v1.18.10)](http://medialize.github.io/URI.js/)  [![npm package](https://img.shields.io/npm/v/npmtest-urijs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-urijs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-urijs.svg)](https://travis-ci.org/npmtest/node-npmtest-urijs)
+# npmtest-urijs
+
+#### basic test coverage for  [urijs (v1.18.10)](http://medialize.github.io/URI.js/)  [![npm package](https://img.shields.io/npm/v/npmtest-urijs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-urijs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-urijs.svg)](https://travis-ci.org/npmtest/node-npmtest-urijs)
+
 #### URI.js is a Javascript library for working with URLs.
 
 [![NPM](https://nodei.co/npm/urijs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/urijs)
